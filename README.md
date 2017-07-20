@@ -38,8 +38,8 @@ git clone https://github.com/CodeLua/TabLiqGar.git && cd TabLiqGar && chmod 777 
 ```
 # نویسنده!
 
-[Amir](https://telegram.me/CodeLua)
+[lua soft](https://telegram.me/luasoft)
 
 ### کانال تیم:
 
-[CerNer Team](https://telegram.me/CerNer_Tm)
+[RObotsazTeam](https://telegram.me/RobotsazTeam)
