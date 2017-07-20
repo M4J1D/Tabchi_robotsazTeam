@@ -1,4 +1,4 @@
-# [TabLiqGar V.3 ](https://telegram.me/CerNerTabliqGar)
+# [TabLiqGar V.3 ](https://telegram.me/)
 
 * * *
 
@@ -6,15 +6,15 @@
 # نصب ربات
 ```sh
 cd $HOME
-git clone https://github.com/CodeLua/TabLiqGar.git
-cd TabLiqGar
+git clone https://github.com/M4J1D/Tabchi_robotsazTeam.git
+cd Tabchi_robotsazTeam
 chmod +x install
 chmod +x start
 ./install
 ./start
 # سپس شماره و کد را ارسال کنید :)
 # اجرای اتولانچ:
-cd TabLiqGar
+cd Tabchi_robotsazTeam
 chmod 777 screen
 chmod +x install
 ./install
@@ -27,12 +27,9 @@ screen ./screen
 nohup ./apistart
 ```
 ### نصب آسان
-```sh
-git clone https://github.com/CodeLua/TabLiqGar.git && cd TabLiqGar && chmod +x install && chmod +x start && ./install && ./start
-
 نصب آ سان اتولانچ
 
-git clone https://github.com/CodeLua/TabLiqGar.git && cd TabLiqGar && chmod 777 screen && chmod +x install && ./install screen ./screen
+git clone https://github.com/M4J1D/Tabchi_robotsazTeam.git && cd Tabchi_robotsazTeam && chmod 777 screen && chmod +x install && ./install screen ./screen
 
 * * *
 ```
